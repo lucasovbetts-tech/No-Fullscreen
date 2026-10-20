@@ -20,7 +20,3 @@ python no_fullscreen.py
 Close the terminal to stop it.
 
 To run hidden on startup, rename to `no_fullscreen.pyw` and put a shortcut in `shell:startup`.
-
-## Planned
-- Rewrite in C++
-- GUI with more tools (auto clicker, etc.)
