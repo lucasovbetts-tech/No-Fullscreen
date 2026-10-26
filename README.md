@@ -20,3 +20,7 @@ python no_fullscreen.py
 Close the terminal to stop it.
 
 To run hidden on startup, rename to `no_fullscreen.pyw` and put a shortcut in `shell:startup`.
+
+## Why I made this
+- My college uses uplearn that automatically goes into fullscreen a lot which I didn't like
+  so I made this to automatically exit fullscreen.
