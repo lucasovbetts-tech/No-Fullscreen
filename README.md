@@ -1,4 +1,4 @@
-# win-toolbox
+# No-fullscreen
 
 Windows utility that detects when a browser enters fullscreen and instantly exits it.
 
